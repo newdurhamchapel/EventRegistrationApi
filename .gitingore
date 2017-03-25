@@ -1,0 +1,5 @@
+*.class
+.git
+.project
+.classpath
+.DS_Store
