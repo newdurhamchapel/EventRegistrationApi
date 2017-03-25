@@ -90,21 +90,6 @@ public class newduram_api {
 	} // Main Loop
 	
 	
-	public static String getoutput(String name) {
-		
-		String output = "Hello " + name; 
-		
-		return output;
-		
-		
-	} // Function getoutput
-	
-	public static int getSum(int first,int second) {
-		int output = first + second;
-		
-		return output;
-		
-	}
 	
 	public static String getforminfo(String FirstName,String LastName,String EmailAddress,Boolean Contact) {
 	
